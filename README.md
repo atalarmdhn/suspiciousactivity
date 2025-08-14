@@ -56,14 +56,18 @@ python unsuplearn.py --mode eval --data_root "C:\VIXMO AI\0-Code\loitering\Avenu
 ## 😵‍💫 Hasil
 Pada proses uji coba ini video yang telah di evaluasi nantinya akan menjadi .csv, lalu untuk mempermudah analisa maka data ditampilkan dalam bentuk grafik dan untuk melihat frame dari video yang telah dievaluasi maka video tersebut dipisah per framenya dan diletakkan dalam 1 folder, berikut beberapa dokumentasi dari hasil percobaan:
 
+
 <img width="1171" height="1027" alt="Screenshot 2025-08-14 154808" src="https://github.com/user-attachments/assets/d68543b4-6bcc-4e01-b317-13a152bc5d5f" />
 Frame ke-59
+
 
 <img width="1186" height="1046" alt="Screenshot 2025-08-14 154840" src="https://github.com/user-attachments/assets/a49a5be9-9ba4-4897-aa5a-526716767a0b" />
 Frame Ke-257
 
+
 <img width="1181" height="1079" alt="Screenshot 2025-08-14 154858" src="https://github.com/user-attachments/assets/07fe2fd0-62f2-4ea0-b83c-447aa6fdc24f" />
 Frame Ke-197
+
 
 <img width="1192" height="1079" alt="Screenshot 2025-08-14 154934" src="https://github.com/user-attachments/assets/aa921587-8b1f-4ad4-9ac9-1c5ebf353650" />
 Frame Ke-576
