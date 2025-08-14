@@ -51,7 +51,7 @@ Gunakan mode ini untuk mengevaluasi video yang ingin ditest.
 
 **Contoh Perintah:**
 ```bash
-python unsuplearn.py --mode eval --data_root "C:\VIXMO AI\0-Code\loitering\Avenue Dataset\testing_videos" --clip_len 16 --height 128 --width 192 --checkpoint ./runs/exp1/checkpoints/best.pt --out_csv ./runs/exp1/test_scores.csv
+python unsuplearn.py --mode eval data_root /path/ke/folder_video --clip_len 16 --height 128 --width 192 --checkpoint ./runs/exp1/checkpoints/best.pt --out_csv ./runs/exp1/test_scores.csv
 ```
 ## 😵‍💫 Hasil
 Pada proses uji coba ini video yang telah di evaluasi nantinya akan menjadi .csv, lalu untuk mempermudah analisa maka data ditampilkan dalam bentuk grafik dan untuk melihat frame dari video yang telah dievaluasi maka video tersebut dipisah per framenya dan diletakkan dalam 1 folder, berikut beberapa dokumentasi dari hasil percobaan:
